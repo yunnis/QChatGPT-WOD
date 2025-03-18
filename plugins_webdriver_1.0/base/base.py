@@ -1,0 +1,4 @@
+# 位数定义
+ROOTSTATE = 0
+WODSTATE = 1
+WIKESTATE = 2

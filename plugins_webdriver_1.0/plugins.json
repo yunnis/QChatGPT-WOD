@@ -1,0 +1,81 @@
+{
+    "plugins": [
+        {
+            "name": "base",
+            "description": "基础库",
+            "version": "0.1",
+            "author": "x",
+            "source": "",
+            "main_file": "plugins/base/main.py",
+            "pkg_path": "plugins/base/",
+            "priority": 0,
+            "enabled": true
+        },
+        {
+            "name": "drop",
+            "description": "掉落查询",
+            "version": "0.1",
+            "author": "x",
+            "source": "",
+            "main_file": "plugins/drop/main.py",
+            "pkg_path": "plugins/drop/",
+            "priority": 0,
+            "enabled": true
+        },
+        {
+            "name": "dungeon",
+            "description": "地城",
+            "version": "0.1",
+            "author": "x",
+            "source": "",
+            "main_file": "plugins/dungeon/main.py",
+            "pkg_path": "plugins/dungeon/",
+            "priority": 0,
+            "enabled": true
+        },
+        {
+            "name": "help",
+            "description": "帮助",
+            "version": "0.1",
+            "author": "x",
+            "source": "",
+            "main_file": "plugins/help/main.py",
+            "pkg_path": "plugins/help/",
+            "priority": 0,
+            "enabled": true
+        },
+        {
+            "name": "link",
+            "description": "组装链接",
+            "version": "0.1",
+            "author": "x",
+            "source": "",
+            "main_file": "plugins/link/main.py",
+            "pkg_path": "plugins/link/",
+            "priority": 0,
+            "enabled": true
+        },
+        {
+            "name": "report",
+            "description": "战报",
+            "version": "0.1",
+            "author": "x",
+            "source": "",
+            "main_file": "plugins/report/main.py",
+            "pkg_path": "plugins/report/",
+            "priority": 0,
+            "enabled": true
+        },
+        {
+            "name": "uesrkey",
+            "description": "自定义关键字",
+            "version": "0.1",
+            "author": "x",
+            "source": "",
+            "main_file": "plugins/userkey/main.py",
+            "pkg_path": "plugins/userkey/",
+            "priority": 0,
+            "enabled": true
+        }
+    ]
+}

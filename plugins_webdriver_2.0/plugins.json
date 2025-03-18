@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        {
+            "name": "bot_request",
+            "description": "机器人请求",
+            "version": "0.1",
+            "author": "x",
+            "source": "",
+            "main_file": "plugins/base/main.py",
+            "pkg_path": "plugins/base/",
+            "priority": 0,
+            "enabled": true
+        }
+    ]
+}
